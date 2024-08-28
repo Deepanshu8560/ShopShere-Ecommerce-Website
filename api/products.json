@@ -1,0 +1,142 @@
+[
+    {
+        "id":1,
+        "name": "Blue Shirt",
+        "category": "Fashion",
+        "brand": "Zara",
+        "price": 1000,
+        "stock": 100,
+        "description": "Nice emerging blue color shirt",
+        "image": "./public/images/shirt.png"
+    },
+    {
+        "id":2,
+        "name": "Blue Polo tShirt",
+        "category": "Fashion",
+        "brand": "H&M",
+        "price": 700,
+        "stock": 150,
+        "description": "Nice emerging blue color t-shirt",
+        "image": "./public/images/bluepolo.png"
+    },
+    {
+        "id":3,
+        "name": "Red Polo tShirt",
+        "category": "Fashion",
+        "brand": "Zara",
+        "price": 600,
+        "stock": 100,
+        "description": "Nice emerging red color polo tshirt",
+        "image": "./public/images/red_tshirt.png"
+    },
+    {
+        "id":4,
+        "name": "Blaack hoodie",
+        "category": "Fashion",
+        "brand": "Zara",
+        "price": 1200,
+        "stock": 70,
+        "description": "Nice emerging black color hoodie",
+        "image": "./public/images/blackhood.png"
+    },
+    {
+        "id":5,
+        "name": "whitehood",
+        "category": "Fashion",
+        "brand": "Zara",
+        "price": 1500,
+        "stock": 100,
+        "description": "Nice emerging white color hoodie",
+        "image": "./public/images/whitehood.png"
+    },
+    {
+        "id":6,
+        "name": "Red tShirt",
+        "category": "Fashion",
+        "brand": "Under Armour",
+        "price": 400,
+        "stock": 100,
+        "description": "Nice emerging red color tshirt",
+        "image": "./public/images/tshirt.png"
+    },
+    {
+        "id":7,
+        "name": "Brown Leather Shoes",
+        "category": "Footwear",
+        "brand": "Bata",
+        "price": 2000,
+        "stock": 50,
+        "description": "pure leather shoes ",
+        "image": "./public/images/brownleather.png"
+    },
+    {
+        "id":8,
+        "name": "Multicolor Shoes",
+        "category": "Footwear",
+        "brand": "Adidas",
+        "price": 3000,
+        "stock": 40,
+        "description": "Comfortable shoes in multicolor",
+        "image": "./public/images/adidasmulticolor.png"
+    },
+    {
+        "id":9,
+        "name": "Air Jordan Black Shoes",
+        "category": "Footwear",
+        "brand": "Nike",
+        "price": 5000,
+        "stock": 100,
+        "description": "Comfortable shoes in black",
+        "image": "./public/images/airblack.png"
+    },
+    {
+        "id":10,
+        "name": "hightop shoes",
+        "category": "Footwear",
+        "brand": "canvas",
+        "price": 1000,
+        "stock": 100,
+        "description": "Nice emerging black color shoes",
+        "image": "./public/images/blackhightop.png"
+    },
+    {
+        "id":11,
+        "name": "Rolex Watch gold",
+        "category": "watch",
+        "brand": "Rolex",
+        "price": 100000,
+        "stock": 10,
+        "description": "eye capturing watch in gold color",
+        "image": "./public/images/rolexwatch.png"
+    },
+    {
+        "id":12,
+        "name": "Brown Leather Watch",
+        "category": "watch",
+        "brand": "Ck",
+        "price": 10000,
+        "stock": 50,
+        "description": "eye capturing watch in brown leather strap color",
+        "image": "./public/images/watcharcadia.png"
+    },
+    {
+        "id":13,
+        "name": "Rolex Watch Silver",
+        "category": "watch",
+        "brand": "Rolex",
+        "price": 100000,
+        "stock": 10,
+        "description": "eye capturing watch in silver color",
+        "image": "./public/images/rolexround.png"
+    },
+    {
+        "id":14,
+        "name": "Sony Smartwatch",
+        "category": "watch",
+        "brand": "sony",
+        "price": 20000,
+        "stock": 100,
+        "description": "Brand New smartwatch with latest features",
+        "image": "./public/images/sonysmartwatch.png"
+    }
+]
